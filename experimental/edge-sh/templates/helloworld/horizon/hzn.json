@@ -1,0 +1,9 @@
+{
+    "HZN_ORG_ID": "IBM",
+    "MetadataVars": {
+        "DOCKER_IMAGE_BASE": "dev.local/${PROJECT_NAME}",
+        "SERVICE_NAME": "${PROJECT_NAME}",
+        "SERVICE_VERSION": "0.0.1"
+    }
+}
+

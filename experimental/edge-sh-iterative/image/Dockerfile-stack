@@ -1,0 +1,8 @@
+# Dockerfile for building the stack
+
+FROM dev.local/appsody/edge-sh
+
+# Copy the common components across into your stack filesystem (most stacks will need these)
+COPY ./LICENSE /licenses/
+COPY ./project /project
+COPY ./config /config

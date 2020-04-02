@@ -1,0 +1,10 @@
+name: Edge Shell Stack
+version: 0.1.0
+description: Stack for running shell scripts on horizon edge devices.
+license: Apache-2.0
+language: sh
+maintainers: 
+  - name: Kyle G. Christianson
+    email: christik@us.ibm.com
+    github-id: kylegc
+default-template: helloworld
